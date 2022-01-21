@@ -1,6 +1,6 @@
-FROM node:14-alpine AS todofrontend
-WORKDIR /app
-EXPOSE 3000
+FROM node:14-alpine
+WORKDIR /todo-app/front-end
 ADD node_modules.tar.gz ./
 COPY . .
-RUN echo npm start
+EXPOSE 3000
+ENTRYPOINT ["npm", "start"]
