@@ -46,4 +46,4 @@ Você pode encontrar o GitHub original do projeto _[aqui]()_. -->
 
 ---
 
-por _[Flávio Bianchetti - 2021](https://www.linkedin.com/in/flaviobianchetti/)_.
+por _[Flávio Bianchetti - 2022](https://www.linkedin.com/in/flaviobianchetti/)_.
